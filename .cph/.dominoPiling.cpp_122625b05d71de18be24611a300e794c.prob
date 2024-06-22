@@ -1,0 +1,1 @@
+{"name":"Local: dominoPiling","url":"d:\\Codeforces\\dominoPiling.cpp","tests":[{"id":1719065463555,"input":"2 4","output":"4"},{"id":1719065470453,"input":"3 3","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codeforces\\dominoPiling.cpp","group":"local","local":true}
