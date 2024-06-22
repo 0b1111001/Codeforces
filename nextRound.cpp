@@ -8,9 +8,9 @@ void solve(){
         int a;
         cin>>a;
         if(k==1) last=a;
-        if(k>0) pass++;
+        if(k>0 && a!=0) pass++;
         else{
-            if(a==last) pass++;
+            if(a==last && a!=0) pass++;
             else break;
         }
         k--;
